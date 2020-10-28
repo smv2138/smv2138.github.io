@@ -69,6 +69,3 @@ nyc_airbnb %>%
   )
 ```
 
-## Getting dashboard to not get confused with yml formats (creating a dashboard inside a website)
-
-go to console -- rmarkdown::render("dashboard.Rmd", output_format = "flexdashboard::flex_dashboard")
